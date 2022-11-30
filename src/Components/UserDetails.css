@@ -1,0 +1,24 @@
+.table_style {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+    
+  table {
+    width: 800px;
+    height: 150px;
+    border-radius: 20px;
+    background-color: #BDC6D9;
+  }
+    
+  th {
+    text-align: center;
+    border-bottom: 1px solid rgb(5, 5, 5);
+    padding: 10px;
+  }
+    
+  td {
+    text-align: center;
+    padding: 10px;
+  }
